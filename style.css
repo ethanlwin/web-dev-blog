@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: lightblue;
+}
+p{
+  color: lightblue;
+}
+h2{
+  color:darkcyan
+}
+img {
+border-radius: 50%;
+}
