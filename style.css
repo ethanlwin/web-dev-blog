@@ -14,3 +14,9 @@ h2{
 img {
 border-radius: 50%;
 }
+.newimage{
+  border-radius: 0%
+}
+html{
+  scroll-behavior: smooth;
+}
